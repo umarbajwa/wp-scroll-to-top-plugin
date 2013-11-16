@@ -1,0 +1,57 @@
+#scr_wrapper{
+	margin: 10px;	
+	max-width: 80px;
+	max-height: 75px;
+	position:fixed;
+	
+	bottom:1%;
+	left: 90%;
+	
+
+
+}
+
+.scr_container{
+	border: 2px solid black;
+	border-radius: 5px;
+	border-height:1px; 
+	text-align:center;
+	display:none;
+	background-color:#000; 
+}
+.scr_container a {text-align: center;
+	text-decoration: none;
+	font-family: verdana,sans-serif,arial;
+	padding: 2px;
+}
+.scr_container a:hover{
+	text-decoration: none;
+	color:#000;
+}
+
+#options_wrapper{
+	margin: 0 auto;
+	position: relative;
+	left:10%;
+	top:50px;
+
+}
+#options_wrapper p{
+   font-family: verdana;
+   font-size: 15px;
+ 
+}
+.scr_icon{
+   color:white;
+   width: 60px;
+   height: 70px;	
+   font-size: 30px;
+   text-align: center;
+   text-decoration: underline;
+
+}
+
+.scr_container a {
+text-align: center;
+
+}
